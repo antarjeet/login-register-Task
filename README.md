@@ -5,11 +5,11 @@
 1. Open MySQL Workbench or MySQL Command Line.
 2. Create a database if it doesn't exist:
    ```sql
-   CREATE DATABASE your_database_name;
+   CREATE DATABASE user_task;
    ```
-3. Import the table provided in the `database` folder:
+3. Import the table provided in the `user_task` folder:
    ```sql
-   USE your_database_name;
+   USE user_task;
    SOURCE path_to_your_database_file.sql;
    ```
 
