@@ -24,7 +24,7 @@
    ```bash
    npm start
    ```
-5. The backend server should now be running.
+5. The backend server should now be running On Port 3600.
 
 ## Step 3: Frontend Setup
 1. Open the frontend folder in Visual Studio Code.
@@ -38,13 +38,5 @@
    npm run dev
    ```
 5. The frontend server will be started and accessible in your browser.
-
-6. ENV FILE FOR BACKEND
-DB_USER= root
-DB_PASSWORD=Avi@1527
-DB_DATABASE=user_task
-PORT=3600
-
-JWT_SECRET=9c5e4a0b6d684c2d9b7b9f22a4a72bde83ea40c5a799f9b1f3e79fd17f91d827
 
 
